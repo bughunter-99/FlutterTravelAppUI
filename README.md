@@ -2,7 +2,7 @@
 
 ### This is a UI made with flutter for a travel alication.
 
-![App ScreenShots](https://imgur.com/a/1gTGrfw)
+![App screenshot](https://i.imgur.com/yylzdjA.jpg)
 
 - [UI design.](https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience)
 
